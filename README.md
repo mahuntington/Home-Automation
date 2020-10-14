@@ -15,7 +15,7 @@ http://www.youtube.com/v/7Zybw3Px1bQ
 ## Explanation
 
 Here's a quick diagram of the process:  
-![process](images/process.jpg)  
+![process](process.jpg)  
 To get this up and running, you'll have to do the following:
 
 1.  [Purchase X10 Firecracker Kit](#purchase_x10)
